@@ -1,10 +1,6 @@
 {
     "name": "PartCache",
     "tree": {
-        "$path": "src",
-        "Packages": {
-            "$className": "Folder",
-            "$path": "Packages"
-        }
+        "$path": "src"
     }
 }
